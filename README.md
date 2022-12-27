@@ -15,4 +15,4 @@ Your users should be able to:
 
 ## Solution
 
-https://trunten.github.io/frontend-mentor-product-cards/
+https://trunten.github.io/fm-product-cards/
